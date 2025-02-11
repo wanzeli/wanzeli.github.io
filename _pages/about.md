@@ -17,7 +17,7 @@ News
 -[Oct 2024] I made the oral presentation to share our work about [hanging arbitrary objects](https://ieeexplore.ieee.org/abstract/document/10443033) in IROS 2024.   
 -[Apr 2024] Our paper about objects hanging is accepted by IEEE Robotics and Automation Letters (RAL).  
 
-Getting started
+Publications (First/Co-first authorship)
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
