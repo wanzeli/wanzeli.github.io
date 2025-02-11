@@ -30,7 +30,7 @@ IEEE International Conference on Robotics and Automation (ICRA) 2025
 <table rules="none">
 <tr>
 <td>
-<img src="../images/real_blanket_est.png" style="zoom:80%" />
+<img src="../images/real_blanket_est.png" style="float:left; margin: 15px;" width="150" height=auto />
 </td>
 <td>
 <p> **RaggeDi: Diffusion-based State Estimation of Disordered Rags, Sheets, Towels and Blankets** </p>
