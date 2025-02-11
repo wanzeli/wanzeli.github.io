@@ -48,7 +48,7 @@ Publications (First/Co-first authorship)
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/real_blanket_est.png" style="float:left; margin: 25px; border: none; border-collapse: collapse; " width="180" height=auto />
+  <img src="../images/picking.jpg" style="float:left; margin: 25px; border: none; border-collapse: collapse; " width="180" height=auto />
   <p> <b>Grasping by Hanging: a Learning-Free Grasping Detection Method for Previously Unseen Objects</b> <br>
        <b>Wanze Li</b>, Wan Su, Gregory S. Chirikjian <br>
        International Symposium of Robotics Research (<em>ISRR</em>) <br> 
