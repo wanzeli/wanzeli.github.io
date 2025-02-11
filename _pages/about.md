@@ -19,13 +19,6 @@ News
 
 Publications (First/Co-first authorship)
 ======
-<!-- <img src="../images/real_blanket_est.png" style="float:left; margin: 15px;" width="150" height=auto />  
-**RaggeDi: Diffusion-based State Estimation of Disordered Rags, Sheets, Towels and Blankets**  
-Jikai Ye\*, **Wanze Li\***, Shiraz Khan, Gregory S. Chirikjian   
-\* means euqally contributed  
-IEEE International Conference on Robotics and Automation (ICRA) 2025  
-[project page](https://wanzeli.github.io/RaggeDi/) [paper](https://arxiv.org/abs/2409.11831) -->
-
 <div align="center">
 <table rules="none">
 <tr>
@@ -33,7 +26,7 @@ IEEE International Conference on Robotics and Automation (ICRA) 2025
 <img src="../images/real_blanket_est.png" style="float:left; margin: 15px;" width="150" height=auto />
 </td>
 <td>
-<p> **RaggeDi: Diffusion-based State Estimation of Disordered Rags, Sheets, Towels and Blankets** </p>
+<font color=Black size=5>RaggeDi: Diffusion-based State Estimation of Disordered Rags, Sheets, Towels and Blankets</font> 
 <p> Jikai Ye\*, **Wanze Li\***, Shiraz Khan, Gregory S. Chirikjian </p>
 <p> \* means euqally contributed </p>
 <p> IEEE International Conference on Robotics and Automation (*ICRA*) 2025   </p>
