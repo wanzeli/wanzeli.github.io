@@ -21,23 +21,6 @@ News
 
 Publications (First/Co-first authorship)
 ======
-<!-- <div align="left" >
-<table rules="none">
-<tr>
-<td>
-<img src="../images/real_blanket_est.png" style="float:left; margin: 15px; border: none; border-collapse: collapse; " width="150" height=auto />
-</td>
-<td>
-<p> <b>RaggeDi: Diffusion-based State Estimation of Disordered Rags, Sheets, Towels and Blankets</b> <br>
-       Jikai Ye*, <b>Wanze Li*</b>, Shiraz Khan, Gregory S. Chirikjian <br>
-       * means euqally contributed <br>
-       IEEE International Conference on Robotics and Automation (*ICRA*) 2025 <br> 
-       <a href="https://wanzeli.github.io/RaggeDi/">[project page]</a>   <a href="https://arxiv.org/abs/2409.11831">[paper]</a>
-</p>
-</td>
-</tr>
-</table>    
-</div> -->
 
 <div style="display: flex; align-items: center;">
   <img src="../images/real_blanket_est.png" style="float:left; margin: 25px; border: none; border-collapse: collapse; " width="180" height=auto />
@@ -55,6 +38,16 @@ Publications (First/Co-first authorship)
        <b>Wanze Li</b>, Wan Su, Gregory S. Chirikjian <br>
        International Symposium of Robotics Research (<em>ISRR</em>) <br> 
        <a href="../assets/ISRR24_0012_VD_i.mp4">[video]</a>   <a href="https://arxiv.org/abs/2408.06734">[paper]</a>
+</p>
+</div>
+
+
+<div style="display: flex; align-items: center;">
+  <img src="../images/handover.jpg" style="float:left; margin: 25px; border: none; border-collapse: collapse; " width="180" height=auto />
+  <p> <b>Autonomous Learning-Free Grasping and Robot-to-Robot Handover of Unknown Objects</b> <br>
+       Yuwei Wu* <b>Wanze Li*</b>, Zhiyang Liu, Weixiao Liu, Gregory S. Chirikjian <br>
+       Under Review by Autonomous Robots <br> 
+       <a href="../assets/ISRR24_0012_VD_i.mp4">[Demo]</a>  
 </p>
 </div>
 
