@@ -66,20 +66,20 @@ Publications (First/Co-first authorship)
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/mosquito_1.jpg" style="float:left; margin: 25px; border: none; border-collapse: collapse; " width="180" height=auto />
-  <p> <b>Automated mosquito salivary gland extractor for pfspz-based malaria vaccine production </b> <br>
-       <b>Wanze Li</b>, Zhuohong He, Parth Vora, Yanzhou Wang, Balazs Vagvolgyi, Simon Leonard, Anna Goodridge, Iulian Iordachita, Stephen L Hoffman, Sumana Chakravarty, Russell H Taylor <br>
-       IEEE International Conference on Robotics and Automation (<em>ICRA</em>) 2021 <br> 
-       <a href="../assets/mosquito_video_1.mp4">[video]</a>   <a href="https://ieeexplore.ieee.org/abstract/document/9560959">[paper]</a>
-</p>
-</div>
-
-<div style="display: flex; align-items: center;">
   <img src="../images/mosquito_2.png" style="float:left; margin: 25px; border: none; border-collapse: collapse; " width="180" height=auto />
   <p> <b> Progress in development of an automated mosquito salivary gland extractor: A step forward to malaria vaccine mass production </b> <br>
        <b>Wanze Li</b>, Zhuoqun Zhang, Zhuohong He, Parth Vora, Alan Lai, Balazs Vagvolgyi, Simon Leonard, Anna Goodridge, Iulian Iordachita, Sumana Chakravarty, Kim Lee Sim, Stephen L Hoffman, Russell H Taylor <br>
        IEEE International Conference on Automation Science and Engineering (<em>CASE</em>) 2021 <br> 
        <a href="../assets/mosquito_video_2.mp4">[video]</a>   <a href="https://ieeexplore.ieee.org/abstract/document/9551500">[paper]</a>
+</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="../images/mosquito_1.jpg" style="float:left; margin: 25px; border: none; border-collapse: collapse; " width="180" height=auto />
+  <p> <b>Automated mosquito salivary gland extractor for pfspz-based malaria vaccine production </b> <br>
+       <b>Wanze Li</b>, Zhuohong He, Parth Vora, Yanzhou Wang, Balazs Vagvolgyi, Simon Leonard, Anna Goodridge, Iulian Iordachita, Stephen L Hoffman, Sumana Chakravarty, Russell H Taylor <br>
+       IEEE International Conference on Robotics and Automation (<em>ICRA</em>) 2021 <br> 
+       <a href="../assets/mosquito_video_1.mp4">[video]</a>   <a href="https://ieeexplore.ieee.org/abstract/document/9560959">[paper]</a>
 </p>
 </div>
 
