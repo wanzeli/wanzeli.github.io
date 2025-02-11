@@ -30,7 +30,7 @@ Publications (First/Co-first authorship)
        Jikai Ye*, <b>Wanze Li</b>, Shiraz Khan, Gregory S. Chirikjian <br>
        * means euqally contributed <br>
        IEEE International Conference on Robotics and Automation (*ICRA*) 2025 <br> 
-       [project page](https://wanzeli.github.io/RaggeDi/) [paper](https://arxiv.org/abs/2409.11831) </p>
+       <a href="https://wanzeli.github.io/RaggeDi/" target="_blank">[project page]</a>   <a href="https://arxiv.org/abs/2409.11831" target="_blank">[paper]</a>
 </td>
 </tr>
 </table>    
