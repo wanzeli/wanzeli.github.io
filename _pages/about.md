@@ -46,6 +46,7 @@ Publications (First/Co-first authorship)
   <img src="../images/handover.jpg" style="float:left; margin: 25px; border: none; border-collapse: collapse; " width="180" height=auto />
   <p> <b>Autonomous Learning-Free Grasping and Robot-to-Robot Handover of Unknown Objects</b> <br>
        Yuwei Wu* <b>Wanze Li*</b>, Zhiyang Liu, Weixiao Liu, Gregory S. Chirikjian <br>
+       * means euqally contributed <br>
        Under Review by Autonomous Robots <br> 
        <a href="../assets/ISRR24_0012_VD_i.mp4">[Demo]</a>  
 </p>
