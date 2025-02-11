@@ -36,7 +36,7 @@ Publications (First/Co-first authorship)
   <img src="../images/picking.jpg" style="float:left; margin: 25px; border: none; border-collapse: collapse; " width="180" height=auto />
   <p> <b>Grasping by Hanging: a Learning-Free Grasping Detection Method for Previously Unseen Objects</b> <br>
        <b>Wanze Li</b>, Wan Su, Gregory S. Chirikjian <br>
-       International Symposium of Robotics Research (<em>ISRR</em>) <br> 
+       International Symposium of Robotics Research (<em>ISRR</em>) 2024 <br> 
        <a href="../assets/ISRR24_0012_VD_i.mp4">[video]</a>   <a href="https://arxiv.org/abs/2408.06734">[paper]</a>
 </p>
 </div>
@@ -47,7 +47,7 @@ Publications (First/Co-first authorship)
   <p> <b>Autonomous Learning-Free Grasping and Robot-to-Robot Handover of Unknown Objects</b> <br>
        Yuwei Wu* <b>Wanze Li*</b>, Zhiyang Liu, Weixiao Liu, Gregory S. Chirikjian <br>
        * means euqally contributed <br>
-       Under Review by Autonomous Robots <br> 
+       Under Review by Autonomous Robots, 2024 <br> 
        <a href="../assets/ISRR24_0012_VD_i.mp4">[Demo]</a>  
 </p>
 </div>
@@ -56,7 +56,7 @@ Publications (First/Co-first authorship)
   <img src="../images/hanging.jpg" style="float:left; margin: 25px; border: none; border-collapse: collapse; " width="180" height=auto />
   <p> <b>I Get the Hang of It! A Learning-Free Method to Predict Hanging Poses for Previously Unseen Objects</b> <br>
        <b>Wanze Li</b>, Lexin Pan, Boren Jiang, Yuwei Wu, Weixiao Liu, Gregory S. Chirikjian <br>
-       IEEE Robotics and Automation Letters (<em>RA-L</em>) <br> 
+       IEEE Robotics and Automation Letters (<em>RA-L</em>), 2024 <br> 
        <a href="https://chirikjianlab.github.io/Igethangofit/">[project page]</a>   <a href="https://ieeexplore.ieee.org/abstract/document/10443033">[paper]</a>
 </p>
 </div>
