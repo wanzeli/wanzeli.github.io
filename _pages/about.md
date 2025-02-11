@@ -47,4 +47,12 @@ Publications (First/Co-first authorship)
 </p>
 </div>
 
+<div style="display: flex; align-items: center;">
+  <img src="../images/real_blanket_est.png" style="float:left; margin: 25px; border: none; border-collapse: collapse; " width="180" height=auto />
+  <p> <b>Grasping by Hanging: a Learning-Free Grasping Detection Method for Previously Unseen Objects</b> <br>
+       <b>Wanze Li</b>, Wan Su, Gregory S. Chirikjian <br>
+       International Symposium of Robotics Research (<em>ISRR</em>) <br> 
+       <a href="https://wanzeli.github.io/RaggeDi/">[video]</a>   <a href="https://arxiv.org/abs/2408.06734">[paper]</a>
+</p>
+</div>
 
