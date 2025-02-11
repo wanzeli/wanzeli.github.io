@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hello! My name is Wanze Li. I am a 4th year PhD student at the [National University of Singapore](https://cde.nus.edu.sg/me/), and I am fortunate to be advised by Prof. [Gregory Chirikjian](https://chirikjianlab.github.io/). Prior to starting as a Ph.D. student, I earned my MSE degree in the mechanical engineering department of [Johns Hopkins University](https://me.jhu.edu/), where I worked closely with Prof. [Russell Taylor](https://www.cs.jhu.edu/faculty/russell-taylor/) and Prof. [Iulian Iordachita](https://amiro.lcsr.jhu.edu/). 
 
 A data-driven personal website
 ======
