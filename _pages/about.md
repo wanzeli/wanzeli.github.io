@@ -19,7 +19,7 @@ News
 
 Publications (First/Co-first authorship)
 ======
-<img src="../images/real_blanket_est.png" style="float:left; margin: 5px;" width="150" height=auto />  **RaggeDi: Diffusion-based State Estimation of Disordered Rags, Sheets, Towels and Blankets**  Jikai Ye\*, **Wanze Li\***, Shiraz Khan, Gregory S. Chirikjian   \* means euqally contributed
+<img src="../images/real_blanket_est.png" style="float:left; margin: 5px;" width="150" height=auto />  **RaggeDi: Diffusion-based State Estimation of Disordered Rags, Sheets, Towels and Blankets**  Jikai Ye\*, **Wanze Li\***, Shiraz Khan, Gregory S. Chirikjian   \* means euqally contributed  IEEE International Conference on Robotics and Automation (ICRA) 2025  [project page](https://wanzeli.github.io/RaggeDi/) [paper](https://arxiv.org/abs/2409.11831)
 
 
 Site-wide configuration
