@@ -48,7 +48,7 @@ Publications (First/Co-first authorship)
        Yuwei Wu* <b>Wanze Li*</b>, Zhiyang Liu, Weixiao Liu, Gregory S. Chirikjian <br>
        * means euqally contributed <br>
        Under Review by Autonomous Robots, 2024 <br> 
-       <a href="../assets/ISRR24_0012_VD_i.mp4">[Demo]</a>  
+       <a href="../assets/handover.mp4">[Demo]</a>  
 </p>
 </div>
 
