@@ -13,7 +13,7 @@ News
 ======
 -[Jan 2025] Our paper about [deformable object state estimation](https://arxiv.org/abs/2409.11831) is accepted by ICRA 2025.   
 -[Jan 2025] I am glad to share that I passed my PhD defense and finished my PhD journey.  
--[Dec 2024] I made the oral presentation to share our work about grasping objects by [hooking and hanging](https://arxiv.org/abs/2408.06734) in ISRR 2024.   
+-[Dec 2024] I made the oral presentation to share our work about picking objects by [hooking and hanging](https://arxiv.org/abs/2408.06734) in ISRR 2024.   
 -[Oct 2024] I made the oral presentation to share our work about [hanging arbitrary objects](https://ieeexplore.ieee.org/abstract/document/10443033) in IROS 2024.   
 -[Apr 2024] Our paper about objects hanging is accepted by IEEE Robotics and Automation Letters (RAL).  
 
