@@ -57,10 +57,29 @@ Publications (First/Co-first authorship)
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/picking.jpg" style="float:left; margin: 25px; border: none; border-collapse: collapse; " width="180" height=auto />
-  <p> <b>Grasping by Hanging: a Learning-Free Grasping Detection Method for Previously Unseen Objects</b> <br>
-       <b>Wanze Li</b>, Wan Su, Gregory S. Chirikjian <br>
-       International Symposium of Robotics Research (<em>ISRR</em>) <br> 
-       <a href="../assets/ISRR24_0012_VD_i.mp4">[video]</a>   <a href="https://arxiv.org/abs/2408.06734">[paper]</a>
+  <img src="../images/hanging.jpg" style="float:left; margin: 25px; border: none; border-collapse: collapse; " width="180" height=auto />
+  <p> <b>I Get the Hang of It! A Learning-Free Method to Predict Hanging Poses for Previously Unseen Objects</b> <br>
+       <b>Wanze Li</b>, Lexin Pan, Boren Jiang, Yuwei Wu, Weixiao Liu, Gregory S. Chirikjian <br>
+       IEEE Robotics and Automation Letters (<em>RA-L</em>) <br> 
+       <a href="https://chirikjianlab.github.io/Igethangofit/">[project page]</a>   <a href="https://ieeexplore.ieee.org/abstract/document/10443033">[paper]</a>
 </p>
 </div>
+
+<div style="display: flex; align-items: center;">
+  <img src="../images/mosquito_1.jpg" style="float:left; margin: 25px; border: none; border-collapse: collapse; " width="180" height=auto />
+  <p> <b>Automated mosquito salivary gland extractor for pfspz-based malaria vaccine production </b> <br>
+       <b>Wanze Li</b>, Zhuohong He, Parth Vora, Yanzhou Wang, Balazs Vagvolgyi, Simon Leonard, Anna Goodridge, Iulian Iordachita, Stephen L Hoffman, Sumana Chakravarty, Russell H Taylor <br>
+       IEEE International Conference on Robotics and Automation (<em>ICRA</em>) 2021 <br> 
+       <a href="../assets/mosquito_video_1.mp4">[video]</a>   <a href="https://ieeexplore.ieee.org/abstract/document/9560959">[paper]</a>
+</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="../images/mosquito_2.png" style="float:left; margin: 25px; border: none; border-collapse: collapse; " width="180" height=auto />
+  <p> <b> Progress in development of an automated mosquito salivary gland extractor: A step forward to malaria vaccine mass production </b> <br>
+       <b>Wanze Li</b>, Zhuoqun Zhang, Zhuohong He, Parth Vora, Alan Lai, Balazs Vagvolgyi, Simon Leonard, Anna Goodridge, Iulian Iordachita, Sumana Chakravarty, Kim Lee Sim, Stephen L Hoffman, Russell H Taylor <br>
+       IEEE International Conference on Automation Science and Engineering (<em>CASE</em>) 2021 <br> 
+       <a href="../assets/mosquito_video_2.mp4">[video]</a>   <a href="https://ieeexplore.ieee.org/abstract/document/9551500">[paper]</a>
+</p>
+</div>
+
