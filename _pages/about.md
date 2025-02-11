@@ -38,7 +38,7 @@ Publications (First/Co-first authorship)
 </div> -->
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/real_blanket_est.png" style="float:left; margin: 15px; border: none; border-collapse: collapse; " width="130" height=auto />
+  <img src="../images/real_blanket_est.png" style="float:left; margin: 25px; border: none; border-collapse: collapse; " width="150" height=auto />
   <p> <b>RaggeDi: Diffusion-based State Estimation of Disordered Rags, Sheets, Towels and Blankets</b> <br>
        Jikai Ye*, <b>Wanze Li*</b>, Shiraz Khan, Gregory S. Chirikjian <br>
        * means euqally contributed <br>
