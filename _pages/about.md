@@ -19,7 +19,7 @@ News
 
 Publications (First/Co-first authorship)
 ======
-<div align="left" style="border: none;">
+<div align="left" >
 <table rules="none">
 <tr>
 <td>
