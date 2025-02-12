@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Wanze Li. I am a 4th year PhD student at the [National University of Singapore](https://cde.nus.edu.sg/me/), and I am fortunate to be advised by Prof. [Gregory Chirikjian](https://chirikjianlab.github.io/). Prior to starting as a Ph.D. student, I earned my MSE degree in the mechanical engineering department of [Johns Hopkins University](https://me.jhu.edu/), where I worked closely with Prof. [Russell Taylor](https://www.cs.jhu.edu/faculty/russell-taylor/) and Prof. [Iulian Iordachita](https://amiro.lcsr.jhu.edu/). My research interests predominantly lie in robot manipulation and I am particularly interested in solving robotic tasks with generative models like diffusion models. 
+Hello! My name is Wanze Li. I am a 4th year PhD student at the [National University of Singapore](https://cde.nus.edu.sg/me/), and I am fortunate to be advised by Prof. [Gregory Chirikjian](https://chirikjianlab.github.io/). Prior to starting as a Ph.D. student, I earned my MSE degree in the mechanical engineering department of the [Johns Hopkins University](https://me.jhu.edu/), where I worked closely with Prof. [Russell Taylor](https://www.cs.jhu.edu/faculty/russell-taylor/) and Prof. [Iulian Iordachita](https://amiro.lcsr.jhu.edu/). My research interests predominantly lie in robot manipulation and I am particularly interested in solving robotic tasks with generative models like diffusion models. 
 
 My CV is available in: [Wanze Li's Curriculum Vitae](../assets/LiWanze_CV_v5.pdf)
 
