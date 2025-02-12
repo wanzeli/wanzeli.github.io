@@ -11,7 +11,7 @@ Hello! My name is Wanze Li. I am a 4th year PhD student at the [National Univers
 
 My CV is available in: [Wanze Li's Curriculum Vitae](../assets/LiWanze_CV_v5.pdf)
 
-[Email](li_wanze@u.nus.edu)/[Google Scholar](https://scholar.google.com/citations?user=HF3-0ncAAAAJ&hl=en)/[Github](https://github.com/wanzeli)/[LinkedIn](https://www.linkedin.com/in/wanze-li-11854119a/)
+[Email](li_wanze@u.nus.edu)/[Google Scholar](https://scholar.google.com/citations?user=HF3-0ncAAAAJ&hl=en)/[GitHub](https://github.com/wanzeli)/[LinkedIn](https://www.linkedin.com/in/wanze-li-11854119a/)
 
 News
 ======
