@@ -26,7 +26,7 @@ Publications (First/Co-first authorship)
   <img src="../images/real_blanket_est.png" style="float:left; margin: 25px; border: none; border-collapse: collapse; " width="180" height=auto />
   <p> <b>RaggeDi: Diffusion-based State Estimation of Disordered Rags, Sheets, Towels and Blankets</b> <br>
        Jikai Ye*, <b>Wanze Li*</b>, Shiraz Khan, Gregory S. Chirikjian <br>
-       * means euqally contributed <br>
+       * means equally contributed <br>
        IEEE International Conference on Robotics and Automation (<em>ICRA</em>) 2025 <br> 
        <a href="https://wanzeli.github.io/RaggeDi/">[project page]</a>   <a href="https://arxiv.org/abs/2409.11831">[paper]</a>
 </p>
@@ -46,7 +46,7 @@ Publications (First/Co-first authorship)
   <img src="../images/handover.jpg" style="float:left; margin: 25px; border: none; border-collapse: collapse; " width="180" height=auto />
   <p> <b>Autonomous Learning-Free Grasping and Robot-to-Robot Handover of Unknown Objects</b> <br>
        Yuwei Wu* <b>Wanze Li*</b>, Zhiyang Liu, Weixiao Liu, Gregory S. Chirikjian <br>
-       * means euqally contributed <br>
+       * means equally contributed <br>
        Under Review by Autonomous Robots, 2024 <br> 
        <a href="../assets/handover.mp4">[Demo]</a>  
 </p>
